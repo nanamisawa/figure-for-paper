@@ -1,0 +1,3 @@
+gnuplot> plot "dist_angle_1-5_BCF3_TLN180.dat" pointsize 0.2 linecolor rgb "#ff0000" notitle
+gnuplot> replot "dist_angle_1-5_BCF3_OXX50-TLN100.dat" pointsize 0.2 linecolor rgb "#00bf00" notitle
+

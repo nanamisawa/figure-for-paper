@@ -1,0 +1,7 @@
+set pm3d map
+set palette rgbformulae 22, 13, -31
+set xrange[3:11]
+set yrange[0:180]
+set cbrange[0:4.5]
+splot "dist_angle_all_OXX50-TLN100_mod.dat" with points palette pt 33 ps 0.1 notitle
+
